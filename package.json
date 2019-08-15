@@ -1,0 +1,24 @@
+{
+  "name": "npm-simple-use",
+  "version": "1.0.1",
+  "description": "the npm simple use example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenkang/npm-simple-use.git"
+  },
+  "keywords": [
+    "npm",
+    "use",
+    "npm"
+  ],
+  "author": "stevenkang <10086@xiaoi.me> (https://xiaoi.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenkang/npm-simple-use/issues"
+  },
+  "homepage": "https://github.com/stevenkang/npm-simple-use#readme"
+}
